@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj": {}
+    "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\task1\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj": {}
   },
   "projects": {
-    "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj": {
+    "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\task1\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj",
+        "projectUniqueName": "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\task1\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj",
         "projectName": "WebApplicationEducation",
-        "projectPath": "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj",
+        "projectPath": "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\task1\\EducationAspNetCore31\\WebApplicationEducation\\WebApplicationEducation.csproj",
         "packagesPath": "C:\\Users\\ZHeKKa\\.nuget\\packages\\",
-        "outputPath": "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\EducationAspNetCore31\\WebApplicationEducation\\obj\\",
+        "outputPath": "D:\\ZDEV\\CSharpProjects\\CSharp_Mathewsun\\task1\\EducationAspNetCore31\\WebApplicationEducation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZHeKKa\\AppData\\Roaming\\NuGet\\NuGet.Config",
